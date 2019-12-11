@@ -1,10 +1,20 @@
 
+let current_player ="X"
+
+let turns = 0
+
+
+let gameend = false;
+
+function(performLogic){
 
 
 
 
 
 
+
+}
 $("#button1").click(function() {
     performLogic("#button1","#tile1");
 });
